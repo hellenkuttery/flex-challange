@@ -23,11 +23,11 @@ Project aims to create the same of given page (News Page).
 
 ## Expected Outcome
 
-![Home Furnishing Project](./images/avatar.gif)
+![News Project](./images/avatar.gif)
 
 ## Objective
 
-Build a page that is functionally similar to this: [Home Furnishing Project](https://hellenkuttery.github.io/flex-challange/)
+Build a page that is functionally similar to this: [News Project](https://hellenkuttery.github.io/flex-challange/)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -56,7 +56,7 @@ Build a page that is functionally similar to this: [Home Furnishing Project](htt
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Home Furnishing Project
+- Step 3: Create News Project
 
 
 ## Notes
