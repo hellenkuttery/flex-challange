@@ -23,7 +23,7 @@ Project aims to create the same of given page (home furnishing page).
 
 ## Expected Outcome
 
-![Home Furnishing Project](./images/home.gif)
+![Home Furnishing Project](./images/avatar.gif)
 
 ## Objective
 
