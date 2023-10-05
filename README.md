@@ -1,10 +1,10 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-## Project-002 : Home Furnishing Page (HC-02)
+## Project-004 : news (HC-04)
 
 ## Description
-Project aims to create the same of given page (home furnishing page).
+Project aims to create the same of given page (News Page).
 
 ## Problem Statement
 
@@ -27,7 +27,7 @@ Project aims to create the same of given page (home furnishing page).
 
 ## Objective
 
-Build a page that is functionally similar to this: [Home Furnishing Project](https://hellenkuttery.github.io/home-furnishing/)
+Build a page that is functionally similar to this: [Home Furnishing Project](https://hellenkuttery.github.io/flex-challange/)
 
 ### At the end of the project, following topics are to be covered;
 
